@@ -1,5 +1,6 @@
-# HEU-UTAGB
-Framework for High-efficient Unsupervised Estimation of Urban Tree Aboveground Biomass at the Individual Tree Scale
+# Unsupervised Individual tree segmentation (U-ITS)
+An moduel in Framework for High-efficient Urban Tree Aboveground Biomass Assessment (HE-UTAGB) at the Individual Tree Scale
+This project will be continuously maintained after the paper is officially accepted.
 
 ## Cross-Platform
 - Runs on Windows and Linux without modification.  
